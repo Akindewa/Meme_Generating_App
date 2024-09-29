@@ -27,6 +27,7 @@ Users will be able to:
 ### Links
 
   ![Code_Link] (https://github.com/Akindewa/Meme_Generating_App.git)
+  
   ![Live_Link] (https://github.com/Akindewa/Meme_Generating_App.git)
 
 
