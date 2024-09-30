@@ -28,7 +28,7 @@ Users will be able to:
 
   ![Code_Link] (https://github.com/Akindewa/Meme_Generating_App.git)
   
-  ![Live_Link] (https://github.com/Akindewa/Meme_Generating_App.git)
+  ![Live_Link] (https://meme-generating-app.vercel.app/)
 
 
 
@@ -38,3 +38,11 @@ Users will be able to:
   - Javascript
   - HTML
   - CSS
+
+
+
+
+## Article
+
+#### Here's a link to the short article I wrote about this project
+  ![Article_Link] (https://akindewa.hashnode.dev/building-a-meme-generator-app-with-react)
